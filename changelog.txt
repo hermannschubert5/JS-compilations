@@ -32,3 +32,4 @@ JS-compilations: Update changelog 2023-11-30
 JS-compilations: Update changelog 2023-12-01
 JS-compilations: Update changelog 2023-12-02
 JS-compilations: Update changelog 2023-12-03
+JS-compilations: Update changelog 2023-12-04
