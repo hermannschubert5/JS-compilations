@@ -64,3 +64,4 @@ JS-compilations: Update changelog 2024-01-01
 JS-compilations: Update changelog 2024-01-02
 JS-compilations: Update changelog 2024-01-03
 JS-compilations: Update changelog 2024-01-04
+JS-compilations: Update changelog 2024-01-05
