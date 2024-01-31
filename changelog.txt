@@ -91,3 +91,4 @@ JS-compilations: Update changelog 2024-01-28
 JS-compilations: Update changelog 2024-01-29
 JS-compilations: Update changelog 2024-01-30
 JS-compilations: Update changelog 2024-01-31
+JS-compilations: Update changelog 2024-02-01
